@@ -14,3 +14,4 @@ Shell Basics.
 - The script 12-file_type displays the file type of the specified file in /tmp.
 - The script 13-symbolic_link creates a symbolic link file to /bin/ls.
 - The script 14-copy_html copies and updates all html files from current to parent directory.
+- The script 15-lets_move moves all files starting with a capital letter to /tmp/u.
