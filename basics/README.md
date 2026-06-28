@@ -10,3 +10,4 @@ Shell Basics.
 - The script 8-firstdelete removes the file betty from /tmp/my_first_directory.
 - The script 9-firstdirdeletion removes the directory /tmp/my_first_directory.
 - The script 10-back changes working directory to the previous one.
+- The script 11-lists displays all files(including hidden ones) of current, parent and /boot folders.
