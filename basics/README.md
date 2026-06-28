@@ -12,3 +12,4 @@ Shell Basics.
 - The script 10-back changes working directory to the previous one.
 - The script 11-lists displays all files(including hidden ones) of current, parent and /boot folders.
 - The script 12-file_type displays the file type of the specified file in /tmp.
+- The script 13-symbolic_link creates a symbolic link file to /bin/ls.
