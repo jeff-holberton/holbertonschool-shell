@@ -15,3 +15,4 @@ Shell Basics.
 - The script 13-symbolic_link creates a symbolic link file to /bin/ls.
 - The script 14-copy_html copies and updates all html files from current to parent directory.
 - The script 15-lets_move moves all files starting with a capital letter to /tmp/u.
+- The script 16-clean_emacs deletes all files that end iwht the character ~.
