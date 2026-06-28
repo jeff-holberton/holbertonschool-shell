@@ -9,3 +9,4 @@ Shell Basics.
 - The script 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory.
 - The script 8-firstdelete removes the file betty from /tmp/my_first_directory.
 - The script 9-firstdirdeletion removes the directory /tmp/my_first_directory.
+- The script 10-back changes working directory to the previous one.
