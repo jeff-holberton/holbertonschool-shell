@@ -6,4 +6,5 @@ Shell Basics.
 - The script 4-listmorefiles displays current directory contents in a long format, including hidden files.
 - The script 5-listfilesdigitonly displays current directory contents in long format, with user and group IDs and showing any hidden files.
 - The script 6-firstdirectory creates a directory in /tmp/.
-- The script 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory
+- The script 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory.
+- The script 8-firstdelete removes the file betty from /tmp/my_first_directory.
