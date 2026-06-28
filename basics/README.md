@@ -13,3 +13,4 @@ Shell Basics.
 - The script 11-lists displays all files(including hidden ones) of current, parent and /boot folders.
 - The script 12-file_type displays the file type of the specified file in /tmp.
 - The script 13-symbolic_link creates a symbolic link file to /bin/ls.
+- The script 14-copy_html copies and updates all html files from current to parent directory.
