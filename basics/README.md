@@ -11,3 +11,4 @@ Shell Basics.
 - The script 9-firstdirdeletion removes the directory /tmp/my_first_directory.
 - The script 10-back changes working directory to the previous one.
 - The script 11-lists displays all files(including hidden ones) of current, parent and /boot folders.
+- The script 12-file_type displays the file type of the specified file in /tmp.
