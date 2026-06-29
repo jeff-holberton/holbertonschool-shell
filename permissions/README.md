@@ -11,3 +11,4 @@
 - Script 10-mirror_permissions copies permissions from olleh to hello.
 - Script 11-directories_permissions adds execute permissions to all subdirectories of current one.
 - Script 12-directory_permissions creates a new directory with permission 751.
+- Script 13-change_group changes group of file hello.
