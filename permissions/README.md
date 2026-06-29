@@ -1,3 +1,4 @@
 - Script 0-iam_betty switches current user to user betty.
 - Script 1-who_am_i displays name of current user.
-- Script 2-groups displays current user's groups
+- Script 2-groups displays current user's groups.
+- Script 3-new_owner changes the owner of the file hello to the user betty.
