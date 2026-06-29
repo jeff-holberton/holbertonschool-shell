@@ -13,3 +13,4 @@
 - Script 12-directory_permissions creates a new directory with permission 751.
 - Script 13-change_group changes group of file hello.
 - Script 14-change_owner_and_group changes owner and group of all files and directories in current one.
+- Script 15-symbolic_link_permissions changes owner and group of a symbolic link.
