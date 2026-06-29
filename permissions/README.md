@@ -12,3 +12,4 @@
 - Script 11-directories_permissions adds execute permissions to all subdirectories of current one.
 - Script 12-directory_permissions creates a new directory with permission 751.
 - Script 13-change_group changes group of file hello.
+- Script 14-change_owner_and_group changes owner and group of all files and directories in current one.
