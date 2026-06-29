@@ -5,3 +5,4 @@
 - Script 4-empty creats an empty file named hello.
 - Script 5-execute adds execute permissions to the owner of the file hello.
 - Script 6-multiple_permissions gives multiple permissions.
+- Script 7-everybody gives execute permission to all.
