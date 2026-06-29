@@ -7,3 +7,4 @@
 - Script 6-multiple_permissions gives multiple permissions.
 - Script 7-everybody gives execute permission to all.
 - Script 8-James_Bond gives permissions 007.
+- Script 9-John_Doe gives permissions 753.
